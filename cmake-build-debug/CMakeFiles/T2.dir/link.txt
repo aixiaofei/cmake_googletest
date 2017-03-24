@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/T2.dir/pow.cc.o  -o T2 

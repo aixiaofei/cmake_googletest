@@ -1,0 +1,4 @@
+/home/ai/ClionProjects/test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ai/ClionProjects/test/cmake-build-debug/CMakeFiles/T2.dir
+/home/ai/ClionProjects/test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ai/ClionProjects/test/cmake-build-debug/CMakeFiles/T1.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/T1.dir/main.cpp.o CMakeFiles/T1.dir/pow.cc.o  -o T1 

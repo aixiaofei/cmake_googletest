@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ai/ClionProjects/test/pow.cc
+stdio.h
+/home/ai/ClionProjects/test/stdio.h
+stdlib.h
+-
+

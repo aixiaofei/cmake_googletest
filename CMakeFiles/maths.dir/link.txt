@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmaths.a  CMakeFiles/maths.dir/math/power.cc.o
+/usr/bin/ranlib libmaths.a

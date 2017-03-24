@@ -1,0 +1,4 @@
+/home/ai/ClionProjects/test/CMakeFiles/edit_cache.dir
+/home/ai/ClionProjects/test/CMakeFiles/pow.dir
+/home/ai/ClionProjects/test/CMakeFiles/rebuild_cache.dir
+/home/ai/ClionProjects/test/CMakeFiles/demo.dir

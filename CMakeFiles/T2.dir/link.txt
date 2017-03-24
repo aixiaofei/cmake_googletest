@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/T2.dir/power.cc.o CMakeFiles/T2.dir/main.cpp.o  -o T2 
